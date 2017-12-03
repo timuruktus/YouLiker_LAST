@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "640748564944",
+    "firebase_url": "https://youliker-252e1.firebaseio.com",
+    "project_id": "youliker-252e1",
+    "storage_bucket": "youliker-252e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640748564944:android:55dd23d4a4488187",
+        "android_client_info": {
+          "package_name": "ru.timuruktus.youliker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640748564944-li2919gc2ncaq7ihkdjp12neqg8e5vau.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.timuruktus.youliker",
+            "certificate_hash": "e1539c1a40259eefb5828281d7ad44308f1c073f"
+          }
+        },
+        {
+          "client_id": "640748564944-92lg37sje29tf1ehqhorpnn9epmbs1el.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBanc0n5mae9vPvxNznIuiqhB-eDQh46Y8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640748564944-92lg37sje29tf1ehqhorpnn9epmbs1el.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

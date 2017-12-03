@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">YouLiker</string>
+
+
+    <string name="banner_ad_unit_id">ca-app-pub-1766130558963175~5684729340</string>
+
+    <string name="hello">Привет.</string>
+</resources>
